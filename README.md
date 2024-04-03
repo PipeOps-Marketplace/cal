@@ -23,9 +23,9 @@ Here is what you need to be able to run Cal.
 Setup
 
     Clone the repo into a public GitHub repository (or fork https://github.com/calcom/cal.com/fork). If you plan to distribute the code, keep the source code public to comply with AGPLv3. To clone in a private repository, acquire a commercial license)
-```
+
     git clone https://github.com/calcom/cal.com.git
-```
+
 
     Go to the project folder
 
@@ -54,7 +54,7 @@ Development tip
 echo 'NEXT_PUBLIC_DEBUG=1' >> .env
 
 
-# Manual setup
+Manual setup
 
     Configure environment variables in the .env file. Replace <user>, <pass>, <db-host>, <db-port> with their applicable values
 
